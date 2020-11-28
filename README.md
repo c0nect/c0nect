@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">✨ Lucas "c0nect" Cavalcante ✨<br/>
   <sup>
-    <sup>😭 😭 😭 😭 😭</sup>
     <br/>
     <a href="https://www.instagram.com/lucasss.cc/">
       <img alt="Instagram Badge" src="https://img.shields.io/badge/-Instagram-8134af?&logoColor=fefefe&logo=instagram"/>

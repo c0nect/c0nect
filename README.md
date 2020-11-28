@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**c0nect/c0nect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">✨ c0nect ✨<br/>
+  <sup>
+    <sup>;-</sup>
+    <br/>
+    <a href="https://www.instagram.com/lucasss.cc/">
+      <img alt="Instagram Badge" src="https://img.shields.io/badge/-Instagram-8134af?&logoColor=fefefe&logo=instagram"/>
+    </a> 
+    <a href="https://discord.com/app">
+      <img alt="Twitter Badge" src="https://img.shields.io/badge/-twitter-8134af?&logoColor=fff&logo=twitter"/>
+    </a>
+  </sup>
+</h1>
+<p>
+  hey, my nick is c0nect, my name is Lucas<br/>
+  that is enough :g
+<p>

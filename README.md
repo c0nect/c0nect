@@ -12,5 +12,4 @@
 </h1>
 <p>
   hey, my nick is c0nect, my name is Lucas<br/>
-  that is enough :g
 <p>

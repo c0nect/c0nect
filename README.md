@@ -10,6 +10,3 @@
     </a>
   </sup>
 </h1>
-<p>
-  hey, my nick is c0nect, my name is Lucas<br/>
-<p>
